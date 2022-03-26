@@ -2,11 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Kilama Elie</h1>
 <h3 align="center">A Software Engineer adopts with a strong focus on frontend , mobile and backend application development</h3>
-<p align="center"> <img src="https://ik.imagekit.io/kilama/profile/geek_JvpN6Kfwt.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1648307704629" alt="coding" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elijahkilama&label=Profile%20views&color=0e75b6&style=flat" alt="elijahkilama" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elijahkilama" alt="elijahkilama" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elijahkilama" alt="elijahkilama" /></a> </p>
 <p align="left"> <a href="https://twitter.com/eliekilama" target="blank"><img src="https://img.shields.io/twitter/follow/eliekilama?logo=twitter&style=for-the-badge" alt="eliekilama" /></a> </p>
 
 - 🔭 I’m currently working on **Freelancer**
