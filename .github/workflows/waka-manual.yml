@@ -1,0 +1,21 @@
+name: Manual Waka Readme
+
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: "enter your name"
+        default: "Kilama Elie"
+
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY  }}
+          COMMIT_MESSAGE: Weekly stats
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
