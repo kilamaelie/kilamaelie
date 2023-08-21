@@ -60,8 +60,7 @@ Git Config                 6 mins          ▒░░░░░░░░░░░�
 #### Github Stats
 
 
-![Kilama's GitHub stats](https://github-readme-stats.vercel.app/api?username=elijahkilama&show_icons=true&&bg_color=60,01384e60,00000000&title_color=BDF7FF&icon_color=BDF7FF70&border_radius=10&hide=contribs,prs&count_private=true)
+![ kilama's GitHub stats](https://github-readme-stats.vercel.app/api?username=elijahkilama&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elijahkilama&hide_progress=true)
 
