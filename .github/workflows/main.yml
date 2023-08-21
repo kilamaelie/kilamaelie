@@ -1,6 +1,8 @@
 
 on:
-  workflow_dispatch:
+  push:
+    branches: [main]
+  # workflow_dispatch:
   # schedule:
     # Runs every 2 hours
     # - cron: "0 */2 * * *"
