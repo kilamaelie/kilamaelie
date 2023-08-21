@@ -1,11 +1,9 @@
+name: Waka Readme
 
 on:
-  push:
-    branches: [main]
-  # workflow_dispatch:
-  # schedule:
-    # Runs every 2 hours
-    # - cron: "0 */2 * * *"
+  schedule:
+#     Runs at every Sunday 12AM UTC
+    - cron: "0 0 * * 0"
 
 jobs:
   update-readme:
@@ -14,4 +12,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY  }}
+          COMMIT_MESSAGE: Weekly stats
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
