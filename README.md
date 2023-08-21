@@ -56,11 +56,3 @@ Git Config                 6 mins          ▒░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
-#### Github Stats
-
-
-![ kilama's GitHub stats](https://github-readme-stats.vercel.app/api?username=elijahkilama&show_icons=true&theme=radical)
-
-
-
