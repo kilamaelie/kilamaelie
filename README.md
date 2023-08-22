@@ -42,7 +42,7 @@ I'm a Senior Software Engineer with a passion for innovation and a flair for wri
 [Building and Deploying a ReactJS App with Docker, NGINX, and Automating with GitHub Actions to AWS EC2]()
 
 
-#### Coding Stats
+#### Weekly Coding Stats
 
 <!--START_SECTION:waka-->
 
