@@ -47,11 +47,13 @@ I'm a Senior Software Engineer with a passion for innovation and a flair for wri
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                       6 hrs 1 min     ██████████████████░░░░░░░   72.55 %
-Markdown                   1 hr 37 mins    █████░░░░░░░░░░░░░░░░░░░░   19.59 %
-Docker                     17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-Other                      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Git Config                 6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Total Time: 1 hr 5 mins
+
+Python                     28 mins         ██████████▓░░░░░░░░░░░░░░   42.81 %
+Markdown                   25 mins         █████████▓░░░░░░░░░░░░░░░   39.20 %
+YAML                       6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+ActionScript 3             4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Docker                     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
