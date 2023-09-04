@@ -41,6 +41,10 @@ I'm a Senior Software Engineer with a passion for innovation and a flair for wri
 
 - [Build and Deploy a ReactJS App to AWS EC2 with Docker, NGINX, and Automate with GitHub Actions](https://medium.com/@kilama/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-d8c57fb47967)
 
+### Latest gist 
+
+- [build and deploy  React.js App to AWS EC2 via Github Actions](https://gist.github.com/elijahkilama/1246846d570522928695e4c2772b00cf)
+
 
 #### Weekly Coding Stats
 
