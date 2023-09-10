@@ -51,13 +51,13 @@ I'm a Senior Software Engineer with a passion for innovation and a flair for wri
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 44 mins
+Total Time: 10 hrs 35 mins
 
-JavaScript    3 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.21 %
-TypeScript    1 hr 26 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.36 %
-Solidity      46 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
-JSON          42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-CSS           11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+JavaScript   8 hrs 51 mins   █████████████████████░░░░   83.59 %
+Solidity     55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+JSON         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Text         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+TypeScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
