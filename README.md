@@ -51,13 +51,9 @@ I'm a Senior Software Engineer with a passion for innovation and a flair for wri
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 18 mins
+Total Time: 0 secs
 
-JavaScript   2 hrs 13 mins   █████████████████░░░░░░░░   67.40 %
-YAML         30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 %
-JSON         25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
-Docker       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
