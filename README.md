@@ -46,15 +46,3 @@ I'm a Senior Software Engineer with a passion for innovation and a flair for wri
 - [build and deploy React.js App with docker to AWS EC2 via Github Actions](https://gist.github.com/elijahkilama/1246846d570522928695e4c2772b00cf)
 
 
-#### Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
