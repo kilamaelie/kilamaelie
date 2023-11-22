@@ -39,7 +39,7 @@ I'm a Senior Software Engineer with a passion for innovation and a flair for wri
 ------
 ### Latest blog posts
 
-- [Build and Deploy a ReactJS App to AWS EC2 with Docker, NGINX, and Automate with GitHub Actions](https://medium.com/@kilama/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-d8c57fb47967)
+- [Build and Deploy a ReactJS App to AWS EC2 with Docker, NGINX, and Automate with GitHub Actions](https://medium.com/@kilamaelie/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-d8c57fb47967)
 
 ### Latest gist 
 
