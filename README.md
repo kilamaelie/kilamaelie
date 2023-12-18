@@ -1,4 +1,5 @@
 ## Hi there, I'm Kilama Elie!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+![banner](https://res.cloudinary.com/dwz5lx2k7/image/upload/v1702919814/portfolio/Kilama_Banner_Linkedin_banner_rpf550.webp)
 
 I'm an experienced software engineer with a strong focus on FullStack development, Dapps, Web3, Fintech and DevOps.
 I actively share my expertise through thought-provoking technical articles. Check out my publications covering FullsSack development, DApp development and more, below 👇.
