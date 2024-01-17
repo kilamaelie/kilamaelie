@@ -52,6 +52,7 @@ I actively share my expertise through thought-provoking technical articles. Chec
 - [build and deploy React.js App with docker to AWS EC2 via Github Actions](https://gist.github.com/kilamaelie/d08bd6493e8b4a430bf5ca2f166ac6ad)
   
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kilamaelie&theme=tokyonight)
+##### If you find the content interesting and useful, feel free to use the "Buy me a coffee" link below to support me and buy me a coffee.
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kilamaelie)
 
 
