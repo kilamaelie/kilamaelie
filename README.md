@@ -136,7 +136,9 @@ I actively share my expertise through thought-provoking technical articles. Chec
 
 
 <br>
+
 ##  📊 GitHub Stats
+
 <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=kilamaelie&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -144,24 +146,27 @@ I actively share my expertise through thought-provoking technical articles. Chec
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kilamaelie&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
+
 ##  🏆 GitHub Trophies
+
 <br>
 
 ![](https://github-profile-trophy.vercel.app/?username=kilamaelie&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <br>
+
 ###  ✍️ Random Dev Quote
-<br>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br>
+
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=kilamaelie&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=kilamaelie&icon=0&color=0)](https://visitcount.itsvg.in)
   
 ##### If you find the content interesting and useful, feel free to use the "Buy me a coffee" link below to support me and buy me a coffee.
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kilamaelie)
