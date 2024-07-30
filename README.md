@@ -2,6 +2,10 @@
 ![banner](https://res.cloudinary.com/dwz5lx2k7/image/upload/v1702919814/portfolio/Kilama_Banner_Linkedin_banner_rpf550.webp)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About me </b>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=Startup+Enthusiast..&hearts;++;Full-Stack+Developer,;Tech+writer/Researcher,;Love+to+learn+new+stuffs."></a>
+</p>
 I'm an experienced software engineer with a strong focus on FullStack development, Dapps, Web3, Fintech and DevOps.
 I actively share my expertise through thought-provoking technical articles. Check out my publications covering FullsSack development, DApp development and more, below 👇.
 
