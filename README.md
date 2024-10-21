@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=Startup+Enthusiast..&hearts;++;Full-Stack+Developer,;Tech+writer/Researcher,;Love+to+learn+new+stuffs."></a>
 <br>
-<a href="https://drive.google.com/file/d/16cXom_Q21Qy8OnSZ_KbL7aN3-NAUMl7g/view" target="_blank">
+<a href="https://drive.google.com/file/d/1kY5LeTVWFyyiLpwLHHxWH8ogRHZXwG9n/view?usp=sharing" target="_blank">
    <img src="https://img.shields.io/badge/-RESUME-white?logo=dialogflow&style=for-the-badge">
 </a>
 <a href="https://kilamaelie.com/" target="_blank">
