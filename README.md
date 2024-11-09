@@ -30,7 +30,6 @@ I actively share my expertise through thought-provoking technical articles. Chec
  
 -  Visit my portfolio : [Kilama Elie | Portfolio ](https://kilamaelie.com)
 
-- ⚡ Fun fact: I like to read books ,play games and gym.
 
 :mailbox: Reach me out!
 
