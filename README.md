@@ -20,8 +20,6 @@ I actively share my expertise through thought-provoking technical articles. Chec
 
 - 🔭 I’m currently working on **Freelancer**
 
-- 🌱 I’m currently learning **Blockchain technology**
-
 - 💬 Ask me about **Anything**
 
 - 👨🏿‍💻 I'm looking to collaborate with other developers.
