@@ -22,8 +22,6 @@ I actively share my expertise through thought-provoking technical articles. Chec
 
 - 💬 Ask me about **Anything**
 
-- 👨🏿‍💻 I'm looking to collaborate with other developers.
-
 - 📫 How to reach me: elijahkilama14@gmail.com.
  
 -  Visit my portfolio : [Kilama Elie | Portfolio ](https://kilamaelie.com)
