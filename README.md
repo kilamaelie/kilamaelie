@@ -20,8 +20,6 @@ I actively share my expertise through thought-provoking technical articles. Chec
 
 - 🔭 I’m currently working on **Freelancer**
 
-- 💬 Ask me about **Anything**
-
 - 📫 How to reach me: elijahkilama14@gmail.com.
  
 -  Visit my portfolio : [Kilama Elie | Portfolio ](https://kilamaelie.com)
