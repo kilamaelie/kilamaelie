@@ -177,6 +177,6 @@ I actively share my expertise through thought-provoking technical articles. Chec
 ##### If you find the content interesting and useful, feel free to use the "Buy me a coffee" link below to support me and buy me a coffee.
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kilamaelie)
 
-</p>
+
 
 
