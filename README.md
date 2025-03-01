@@ -12,7 +12,6 @@
 <a href="https://kilamaelie.com/" target="_blank">
    <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
-
 </p>
 
 I'm an experienced software engineer with a strong focus on FullStack development, Dapps, Web3, Fintech and DevOps.
@@ -139,7 +138,8 @@ I actively share my expertise through thought-provoking technical articles. Chec
 - [Build and Deploy a ReactJS App to AWS EC2 with Docker, NGINX, and Automate with GitHub Actions](https://medium.com/@kilamaelie/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-d8c57fb47967)
 
 - [Deploy a Django Rest Api on AWS EC2 using Docker, NGINX, Gunicorn and GitHub Action](https://medium.com/@kilamaelie/deploy-a-django-rest-api-on-aws-ec2-using-docker-nginx-gunicorn-and-github-action-1d3b41f3bfdc)
-
+  
+- [Master React App Deployment: AWS EC2, Route 53, SSL & GitHub Actions,A comprehensive manual which walks you through the deployment process, leveraging the power of Docker, AWS EC2, Route 53, SSL encryption and GitHub actions to build a robust CI/CD pipeline.](https://www.patreon.com/kilamaelie/shop/master-react-app-deployment-aws-ec2-53-1089307?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_fan&utm_content=join_link)
 
 <br>
 
