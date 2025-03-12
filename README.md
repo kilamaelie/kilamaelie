@@ -17,7 +17,6 @@
 I'm an experienced software engineer with a strong focus on FullStack development, Dapps, Web3, Fintech and DevOps.
 I actively share my expertise through thought-provoking technical articles. Check out my publications covering FullsSack development, DApp development and more, below 👇.
 
-- 🔭 I’m currently working on **Freelancer**
 
 - 📫 How to reach me: elijahkilama14@gmail.com.
  
