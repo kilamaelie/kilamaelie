@@ -1,42 +1,35 @@
-## Hi there, I'm Kilama Elie!! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-![banner](https://res.cloudinary.com/dwz5lx2k7/image/upload/v1702919814/portfolio/Kilama_Banner_Linkedin_banner_rpf550.webp)
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About me </b>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=Startup+Enthusiast..&hearts;++;Full-Stack+Developer,;Tech+writer/Researcher,;Love+to+learn+new+stuffs."></a>
 <br>
-<a href="https://drive.google.com/file/d/1kY5LeTVWFyyiLpwLHHxWH8ogRHZXwG9n/view?usp=sharing" target="_blank">
-   <img src="https://img.shields.io/badge/-RESUME-white?logo=dialogflow&style=for-the-badge">
-</a>
-<a href="https://kilamaelie.com/" target="_blank">
-   <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
-</a>
+
 </p>
 
- I'm a full-stack engineer focused on developing efficient, scalable and user-friendly applications that help companies solve their problems by creating innovative solutions so they can achieve their goals.
+![banner](https://res.cloudinary.com/dwz5lx2k7/image/upload/v1702919814/portfolio/Kilama_Banner_Linkedin_banner_rpf550.webp)
+
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height='20px' width="28px" alt="hi"> I'm a full-stack engineer focused on developing efficient, scalable and user-friendly applications that help companies solve their problems by creating innovative solutions so they can achieve their goals.
 
  I have collaborated with cross-functional teams to develop and maintain web applications using modern front-end frameworks, and have also developed microservices, RESTful APIs, Websocket and integrated third-party APIs for data retrieval and processing.
 
 As a technical writer, I actively share my expertise through stimulating technical articles. Check out my articles on FullsSack development and DApp development below.
 
-- 📫 How to reach me: elijahkilama14@gmail.com.
- 
--  Visit my portfolio : [Kilama Elie | Portfolio ](https://kilamaelie.com)
+ <b>Connect with me</b>
+ - [![Twitter Badge](https://img.shields.io/badge/-@kilamaelie-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kilamaelie)](https://twitter.com/kilamaelie)
+ - [![Linkedin Badge](https://img.shields.io/badge/-kilamaelie-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kilamaelie/)
+ - [![Mail Badge](https://img.shields.io/badge/-elijahkilama-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:elijahkilama14@gmail.com)
+ -  Visit my portfolio : [Kilama Elie | Portfolio ](https://kilamaelie.com)
 
+ <b>Software Engineer & Tech Writer | Blockchain | FullStack Developer | Fintech | DevOps |</b>
 
-:mailbox: Reach me out!
-
-[![Twitter Badge](https://img.shields.io/badge/-@kilamaelie-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kilamaelie)](https://twitter.com/kilamaelie) [![Linkedin Badge](https://img.shields.io/badge/-kilamaelie-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kilamaelie/)  [![Mail Badge](https://img.shields.io/badge/-elijahkilama-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:elijahkilama14@gmail.com)
-
-<br>
-<br>
+ <a href="https://drive.google.com/file/d/1kY5LeTVWFyyiLpwLHHxWH8ogRHZXwG9n/view?usp=sharing" target="_blank">
+   <img src="https://img.shields.io/badge/-RESUME-white?logo=dialogflow&style=for-the-badge">
+</a>
+<a href="https://kilamaelie.com/" target="_blank">
+   <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
+</a>
 
   
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
-
-<br>
-<br>
 
 <p align="center">
 
@@ -46,8 +39,6 @@ As a technical writer, I actively share my expertise through stimulating technic
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
    ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-
-<br> 
 
 - **Front-End Development**:
 
@@ -65,8 +56,6 @@ As a technical writer, I actively share my expertise through stimulating technic
   ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-  <br>
-
 - **Back-End Development**:
 
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -76,8 +65,6 @@ As a technical writer, I actively share my expertise through stimulating technic
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-<br>
-
 - **Databases**:
 
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -86,9 +73,7 @@ As a technical writer, I actively share my expertise through stimulating technic
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
- <br>
-
+  
 - **Cloud Hosting**:
 
   ##### For web App
@@ -101,8 +86,6 @@ As a technical writer, I actively share my expertise through stimulating technic
   
   ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
   ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-
-<br>
 
 - **Softwares and Tools**:
 
@@ -128,10 +111,7 @@ As a technical writer, I actively share my expertise through stimulating technic
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-<br>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ### Latest blog posts
