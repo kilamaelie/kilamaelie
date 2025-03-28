@@ -122,6 +122,8 @@ As a technical writer, I actively share my expertise through stimulating technic
   
 - [Master React App Deployment: AWS EC2, Route 53, SSL & GitHub Actions,A comprehensive manual which walks you through the deployment process, leveraging the power of Docker, AWS EC2, Route 53, SSL encryption and GitHub actions to build a robust CI/CD pipeline.](https://www.patreon.com/kilamaelie/shop/master-react-app-deployment-aws-ec2-53-1089307?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_fan&utm_content=join_link)
 
+- [Deploy a Next.js App on AWS EC2 with Docker, NGINX, and Automate with GitHub Actions.](https://medium.com/@kilamaelie/deploy-a-next-js-app-on-aws-ec2-with-docker-nginx-and-automate-with-github-actions-05a879d1a81b)
+
 <br>
 
 ##  📊 GitHub Stats
