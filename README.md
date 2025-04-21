@@ -116,13 +116,15 @@ As a technical writer, I actively share my expertise through stimulating technic
 
 ### Latest blog posts
 
-- [Build and Deploy a ReactJS App to AWS EC2 with Docker, NGINX, and Automate with GitHub Actions](https://medium.com/@kilamaelie/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-d8c57fb47967)
-
-- [Deploy a Django Rest Api on AWS EC2 using Docker, NGINX, Gunicorn and GitHub Action](https://medium.com/@kilamaelie/deploy-a-django-rest-api-on-aws-ec2-using-docker-nginx-gunicorn-and-github-action-1d3b41f3bfdc)
-  
-- [Master React App Deployment: AWS EC2, Route 53, SSL & GitHub Actions,A comprehensive manual which walks you through the deployment process, leveraging the power of Docker, AWS EC2, Route 53, SSL encryption and GitHub actions to build a robust CI/CD pipeline.](https://www.patreon.com/kilamaelie/shop/master-react-app-deployment-aws-ec2-53-1089307?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_fan&utm_content=join_link)
+- [Beginner’s Guide to Environment Variables with Docker](https://medium.com/@kilamaelie/beginners-guide-to-environment-variables-with-docker-f716f65af5ec)
 
 - [Deploy a Next.js App on AWS EC2 with Docker, NGINX, and Automate with GitHub Actions.](https://medium.com/@kilamaelie/deploy-a-next-js-app-on-aws-ec2-with-docker-nginx-and-automate-with-github-actions-05a879d1a81b)
+
+- [Master React App Deployment: AWS EC2, Route 53, SSL & GitHub Actions,A comprehensive manual which walks you through the deployment process, leveraging the power of Docker, AWS EC2, Route 53, SSL encryption and GitHub actions to build a robust CI/CD pipeline.](https://www.patreon.com/kilamaelie/shop/master-react-app-deployment-aws-ec2-53-1089307?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_fan&utm_content=join_link) <span> PDF (e-book)</span>
+
+- [Deploy a Django Rest Api on AWS EC2 using Docker, NGINX, Gunicorn and GitHub Action](https://medium.com/@kilamaelie/deploy-a-django-rest-api-on-aws-ec2-using-docker-nginx-gunicorn-and-github-action-1d3b41f3bfdc)
+
+- [Build and Deploy a ReactJS App to AWS EC2 with Docker, NGINX, and Automate with GitHub Actions](https://medium.com/@kilamaelie/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-d8c57fb47967)
 
 <br>
 
