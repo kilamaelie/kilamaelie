@@ -17,14 +17,14 @@ As a technical writer, I actively share my expertise through stimulating technic
  - [![Twitter Badge](https://img.shields.io/badge/-@kilamaelie-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kilamaelie)](https://twitter.com/kilamaelie)
  - [![Linkedin Badge](https://img.shields.io/badge/-kilamaelie-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kilamaelie/)
  - [![Mail Badge](https://img.shields.io/badge/-elijahkilama-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:elijahkilama14@gmail.com)
- -  Visit my portfolio : [Kilama Elie | Portfolio ](https://kilamaelie.com)
+ -  Visit my portfolio : [Kilama Elie | Portfolio ](https://kilamaelie.vercel.app/)
 
  <b>Software Engineer & Tech Writer | Blockchain | FullStack Developer | Fintech | DevOps |</b>
 
- <a href="https://drive.google.com/file/d/1kY5LeTVWFyyiLpwLHHxWH8ogRHZXwG9n/view?usp=sharing" target="_blank">
+ <a href="https://drive.google.com/file/d/1n_fZZxvscnHwnai6U2KPsUJVqj8e2yso/view?usp=sharing" target="_blank">
    <img src="https://img.shields.io/badge/-RESUME-white?logo=dialogflow&style=for-the-badge">
 </a>
-<a href="https://kilamaelie.com/" target="_blank">
+<a href="https://kilamaelie.vercel.app/" target="_blank">
    <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
 
