@@ -14,7 +14,7 @@
 <a href="https://medium.com/@kilamaelie"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
 
 <a href="https://dev.to/kilamaelie"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username kilamaelie" /></a>
-<a href="http://[kilamaelie](https://kilamaelie.vercel.app/)/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of Kilama Elie" /></a>
+<a href="https://kilamaelie.vercel.app/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of Kilama Elie" /></a>
 <a href="mailto:elijahkilama14@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Kilama Elie " /></a>
   <a href="https://twitter.com/kilamaelie"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Kilama Elie" ></a>
  <a href="https://drive.google.com/file/d/1n_fZZxvscnHwnai6U2KPsUJVqj8e2yso/view?usp=sharing" target="_blank">
