@@ -77,7 +77,7 @@ As a technical writer, I actively share my expertise through stimulating technic
 |:---------|:-------------:|:----------:|:-------------------|
 | Wotemart | - |  | `Microservice` `GitHub Actions`  `Postman` `React` `React-native(Expo)` `NextJS` `Django DRF` `Node` `Express` `API Getway` |
 | Mzuri Sannaa | - | - |`Next.js` `React` `TypeScript` `GitHub Actions` `Tailwind css` `Node` `Express` `MongoDB` `RestFull API` `Redux`| 
-| HelloNight |[helloNight](https://hellonightclub.vercel.app/)| - | `Next.js` `TypeScript` `React` `React-native (Expo)` `Mui-Material` `NodeJS` `Express` `Socket.io` `Postgres` `RestFull API` `Tanstask quey` `State management` | 
+| HelloNight |[view](https://hellonightclub.vercel.app/)| - | `Next.js` `TypeScript` `React` `React-native (Expo)` `Mui-Material` `NodeJS` `Express` `Socket.io` `Postgres` `RestFull API` `Tanstask quey` `State management` | 
 |InspectFleet | [view](https://inspectfleet.com/) | - | `Reactjs` `React-native` `Django DRF` `Mui-Material` `Docker` `Expo` `AWS` `Nginx` `Github Action` `AppStore` `PlayStore` `Postman` `Postgres` `RestFull API` `Tanstask quey` `Context API` `GitHub Actions` |
 | Joke DApp | [view](https://jokes-dapp.vercel.app/) | [view](https://github.com/kilamaelie/jokes-dapp) | `Next.js` `DApp` `Mui-Material` ` Foundry` `Solidity` `Smart-Contract` `Wagmi` `Viem`|
 
