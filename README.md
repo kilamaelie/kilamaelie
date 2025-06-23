@@ -14,7 +14,7 @@
 <a href="https://medium.com/@kilamaelie"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
 
 <a href="https://dev.to/kilamaelie"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username kilamaelie" /></a>
-<a href="https://kilamaelie.vercel.app/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of Kilama Elie" /></a>
+<a href="https://kilamaelie.dev/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of Kilama Elie" /></a>
 <a href="mailto:elijahkilama14@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Kilama Elie " /></a>
   <a href="https://twitter.com/kilamaelie"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Kilama Elie" ></a>
  <a href="https://drive.google.com/file/d/1WaKh5ntdVpy29V1tBDp7hg7lwkN1lr4d/view?usp=sharing" target="_blank">
@@ -37,7 +37,7 @@ As a technical writer, I actively share my expertise through stimulating technic
 <a href="https://dev.to/kilamaelie"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 <a href="https://medium.com/@kilamaelie"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
 
-> You can find my recommended blogs at [kilamaelie.vercel.app/articles/blog](https://kilamaelie.vercel.app/articles).
+> You can find my recommended blogs at [kilamaelie.dev/articles/blog](https://kilamaelie.dev/articles).
 
 - [Beginner’s Guide to Environment Variables with Docker](https://medium.com/@kilamaelie/beginners-guide-to-environment-variables-with-docker-f716f65af5ec)
 
@@ -69,7 +69,7 @@ As a technical writer, I actively share my expertise through stimulating technic
 
 ## Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 
-> Find all of my projects at [kilamaelie.vercel.app/projects](https://kilamaelie.vercel.app/projects) with timeline, tech stack and necessary links.
+> Find all of my projects at [kilamaelie.dev/projects](https://kilamaelie.dev/projects) with timeline, tech stack and necessary links.
 
 &nbsp;
 
