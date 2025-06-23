@@ -11,7 +11,8 @@
  
 <!--   <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
   <a href="https://www.linkedin.com/in/kilamaelie/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username kilamaelie" /></a>
-<a href="https://medium.com/@kilamaelie"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
+<a href="https://medium.com/@kilamaelie"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://www.patreon.com/kilamaelie"><img src="https://img.shields.io/badge/patreon-0A0A0A?style=for-the-badge&logo=patreon&logoColor=white"/></a><br>
 
 <a href="https://dev.to/kilamaelie"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username kilamaelie" /></a>
 <a href="https://kilamaelie.dev/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of Kilama Elie" /></a>
@@ -30,6 +31,19 @@
 As a technical writer, I actively share my expertise through stimulating technical articles. Check out my articles on FullsSack development and DApp development below.
 
  
+<br>
+
+## Latest books
+
+<a href="https://www.patreon.com/kilamaelie"><img src="https://img.shields.io/badge/patreon-0A0A0A?style=for-the-badge&logo=patreon&logoColor=white"/></a><br>
+
+> You can find my recommended books at [patreon](https://www.patreon.com/kilamaelie/shop).
+
+
+- [Master React App Deployment: AWS EC2, Route 53, SSL & GitHub Actions,A comprehensive manual which walks you through the deployment process, leveraging the power of Docker, AWS EC2, Route 53, SSL encryption and GitHub actions to build a robust CI/CD pipeline.](https://www.patreon.com/kilamaelie/shop/master-react-app-deployment-aws-ec2-53-1089307?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_fan&utm_content=join_link) <span>  ( PDF Format)</span>
+
+<br>
+
 <br>
 
 ## Latest blog posts
