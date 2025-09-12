@@ -18,7 +18,7 @@
 <a href="https://kilamaelie.dev/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of Kilama Elie" /></a>
 <a href="mailto:elijahkilama14@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Kilama Elie " /></a>
   <a href="https://twitter.com/kilamaelie"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Kilama Elie" ></a>
- <a href="https://drive.google.com/file/d/1WaKh5ntdVpy29V1tBDp7hg7lwkN1lr4d/view?usp=sharing" target="_blank">
+ <a href="https://docs.google.com/document/d/1RwuzqeUfFUR0UiAYV2CNrn3-45_xbGTp7wD1X6YZ7CI/edit?usp=sharing" target="_blank">
    <img src="https://img.shields.io/badge/-RESUME-white?logo=dialogflow&style=for-the-badge">
 </a>
 </div>
