@@ -88,7 +88,7 @@ As a technical writer, I actively share my expertise through stimulating technic
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
 | Wotemart | - |  | `Microservice` `GitHub Actions`  `Postman` `React` `React-native(Expo)` `NextJS` `Django DRF` `Node` `Express` `API Getway` |
-| Afrocom | [view](https://www.afrocom.app/) |  | `Next.js` `React` `TypeScript` `GitHub Actions` `Tailwind css` `Node`  |
+| Afrocom | [view](https://afrocom.app/) |  | `Next.js` `React` `TypeScript` `GitHub Actions` `Tailwind css` `Node`  |
 | Mzuri Sannaa | - | - |`Next.js` `React` `TypeScript` `GitHub Actions` `Tailwind css` `Node` `Express` `MongoDB` `RestFull API` `Redux`| 
 | zebraItSolution | [view](https://www.zebraitsolution.com/) | - |`Next.js` `React` `TypeScript` `GitHub Actions` `MUI` `Node`  | 
 | HelloNight |[view](https://hellonightclub.vercel.app/)| - | `Next.js` `TypeScript` `React` `React-native (Expo)` `Mui-Material` `NodeJS` `Express` `Socket.io` `Postgres` `RestFull API` `Tanstask quey` `State management` | 
