@@ -24,11 +24,21 @@
 </div>
 <br>
 
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height='20px' width="28px" alt="hi"> I'm a full-stack engineer focused on developing efficient, scalable and user-friendly applications that help companies solve their problems by creating innovative solutions so they can achieve their goals.
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height='20px' width="28px" alt="hi"> I’m a Senior Full-Stack Engineer with 7+ years of experience building, scaling, and owning production SaaS and B2B platforms across web and mobile in remote-first teams.
 
- I have collaborated with cross-functional teams to develop and maintain web applications using modern front-end frameworks, and have also developed microservices, RESTful APIs, Websocket and integrated third-party APIs for data retrieval and processing.
+I specialize in end-to-end system ownership—from architecture and implementation to deployment and scaling—working primarily with Next.js, React, Node.js, TypeScript, React Native, Docker, and cloud infrastructure. I’ve led distributed teams, made architectural trade-offs, and delivered systems aligned with real business outcomes.
 
-As a technical writer, I actively share my expertise through stimulating technical articles. Check out my articles on FullsSack development and DApp development below.
+Some of my recent work includes:
+
+Wotemart — a multi-tenant SaaS marketplace spanning web, dashboards, desktop, and mobile apps
+
+Inspectfleet — a logistics inspection platform that increased client adoption by 45% through iterative remote delivery
+
+I care deeply about clean architecture, maintainable systems, and predictable delivery in remote environments. I work comfortably across US and EU time zones, using clear async communication and strong documentation to keep teams aligned.
+
+Outside of product development, I write about cloud-native development, DevOps automation, and scalable system design on Medium (medium.com/@kilamaelie).
+
+I’m currently open to senior or lead remote roles where ownership, autonomy, and impact matter.
 
  
 <br>
