@@ -18,7 +18,7 @@
 <a href="https://kilamaelie.dev/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of Kilama Elie" /></a>
 <a href="mailto:elijahkilama14@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Kilama Elie " /></a>
   <a href="https://twitter.com/kilamaelie"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Kilama Elie" ></a>
- <a href="https://drive.google.com/file/d/1kQCJgfk0f77ZKD1ziCNAOzf9MH6ZlS8O/view?usp=sharing" target="_blank">
+ <a href="https://drive.google.com/file/d/19lQ7wD7mHI3Tg3LkEXehDdJLn297dntl/view?usp=sharing" target="_blank">
    <img src="https://img.shields.io/badge/-RESUME-white?logo=dialogflow&style=for-the-badge">
 </a>
 </div>
@@ -97,8 +97,8 @@ I’m currently open to senior or lead remote roles where ownership, autonomy, a
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
 |:---------|:-------------:|:----------:|:-------------------|
-| Wotemart | - |  | `Microservice` `GitHub Actions`  `Postman` `React` `React-native(Expo)` `NextJS` `Django DRF` `Node` `Express` `API Getway` |
-| Afrocom | [view](https://afrocom.app/) |  | `Next.js` `React` `TypeScript` `GitHub Actions` `Tailwind css` `Node`  |
+| WoteMart | [view](https://wotemart.com) |  | `Microservice` `GitHub Actions`  `Postman` `React` `React-native(Expo)` `NextJS` `Django DRF` `Node` `Express` `API Getway` |
+| AfroCom | [view](https://afrocom.app/) |  | `Next.js` `React` `TypeScript` `GitHub Actions` `Tailwind css` `Node`  |
 | Mzuri Sannaa | - | - |`Next.js` `React` `TypeScript` `GitHub Actions` `Tailwind css` `Node` `Express` `MongoDB` `RestFull API` `Redux`| 
 | zebraItSolution | [view](https://www.zebraitsolution.com/) | - |`Next.js` `React` `TypeScript` `GitHub Actions` `MUI` `Node`  | 
 | HelloNight |[view](https://hellonightclub.vercel.app/)| - | `Next.js` `TypeScript` `React` `React-native (Expo)` `Mui-Material` `NodeJS` `Express` `Socket.io` `Postgres` `RestFull API` `Tanstask quey` `State management` | 
