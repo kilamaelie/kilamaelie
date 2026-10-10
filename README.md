@@ -113,7 +113,7 @@ I’m currently open to senior or lead remote roles where ownership, autonomy, a
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-| ![Kilama Elie github stats](https://github-readme-stats.vercel.app/api?username=kilamaelie\&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=fff&title_color=0a1931&icon_color=0a1931&text_color=0A0209&border_color=0A0209&border_radius=8) | ![Kilama Elie GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kilamaelie&theme=tokyonight&theme=icegray&border_radius=8) |
+| ![Kilama Elie GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kilamaelie&theme=tokyonight&theme=icegray&border_radius=8) |
 | -- | -- |
 
 <hr>
