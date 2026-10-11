@@ -1,6 +1,6 @@
 <!-- Profile README for github.com/kilamaelie -->
 
-<h1 align="center">Kilama Elie</h1>
+<h1 align="center">Elie Kilama</h1>
 
 <p align="center">
   <strong>Full Stack &amp; Mobile Developer | 7+ Years Exp. | Next.js, React Native, Node.js, Python | DevOps | AI &amp; LLM Integration</strong>
@@ -21,16 +21,14 @@
 </p>
 
 <p align="center">
-  <sub>Based in Dubai, UAE · Works remotely across US and EU time zones</sub>
+  <sub> · Works remotely across US and EU time zones · </sub>
 </p>
 
-> **Open to senior and lead remote roles:** Senior Full Stack Engineer · React / Next.js · React Native / Expo · Node.js Backend · AI Application Engineer (LLM APIs)
+> **Open to senior and lead remote roles:** Full Stack & Mobile Developer | 7+ Years Exp. | Next.js, React Native, Node.js, Python | DevOps | AI & LLM Integration
 
 **Highlights**
 - **7+ years** shipping production web, mobile and backend systems
-- **Lead developer on InspectFleet:** the team grew client adoption by **45%** and cut infrastructure costs by **20%**
-- **Built Maat,** a multi-model AI chatbot running in production for the AfroCom community
-- **Multi-tenant SaaS** across web, dashboards, desktop and mobile at Wotemart
+- **Multi-tenant SaaS** across web, dashboards, desktop and mobile at WoteMart
 - **Published npm package** and open-source AWS deployment guides with matching Medium tutorials
 
 ---
@@ -65,8 +63,9 @@ What I'm good at:
 
 | Area | Technologies |
 |:--|:--|
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS, Redux, Zustand, TanStack Query |
+| **Frontend** | React, Next.js, Vite, TypeScript, Tailwind CSS, Redux, Zustand, TanStack Query |
 | **Mobile** | React Native, Expo, iOS and Android delivery through the App Store and Google Play |
+| **Desktop** | React, Vite, Typescrit, Electron delivery through Mac Os, Windows, Linux desktop App |
 | **Backend** | Node.js, Express, Python, Django REST Framework, FastAPI, REST APIs, WebSockets |
 | **Data** | PostgreSQL, MongoDB, Redis, MySQL, Prisma, Supabase |
 | **Cloud &amp; DevOps** | Docker, AWS (EC2), GitHub Actions CI/CD, Nginx, Cloudflare |
@@ -79,66 +78,31 @@ What I'm good at:
 
 ## Featured work
 
-### Wotemart: multi-tenant SaaS and B2B platform
+### WoteMart: multi-tenant SaaS and B2B platform
 **Problem:** Businesses run sales, customers and operations across disconnected tools.
-Wotemart is one business management suite with web apps, CRM/CMS dashboards, desktop software and mobile apps.
-
-**My role:** Full Stack Engineer / Lead Full Stack Developer
-- Designed and built application architecture and microservices that serve several client apps from one platform.
-- Implemented shared authentication (JWT / OAuth patterns) so one account works across web, dashboard, desktop and mobile.
-- Containerized services with Docker and shipped them to AWS through GitHub Actions CI/CD.
-
-`Next.js` `React` `React Native (Expo)` `Node.js` `Express` `Django REST Framework` `Docker` `AWS` `GitHub Actions`
+WoteMart is one business management suite with web apps, CRM/CMS dashboards, desktop software and mobile apps.
 &nbsp;·&nbsp; [wotemart.com](https://wotemart.com) · <sub>Source is private</sub>
 
 ### AfroCom and Maat: community platform and AI chatbot
 **Problem:** A growing community needs one place to connect, and its routine questions and workflows need automating.
-
-**My role:** Community Leader &amp; Full Stack Engineer
-- Built web platform features and third-party integrations.
-- Built **Maat**, an AI chatbot that automates interactions and workflows across the AfroCom ecosystem.
-- Designed multi-model LLM integration (OpenAI and OpenRouter) with custom prompt pipelines.
-- Leads community and technical initiatives.
-
-`Next.js` `React` `TypeScript` `Node.js` `Tailwind CSS` `OpenAI API` `OpenRouter` `GitHub Actions`
 &nbsp;·&nbsp; [afrocom.app](https://afrocom.app) · <sub>Source is private</sub>
 <!-- TODO: add a public Maat link or demo here if one exists -->
 
 ### InspectFleet: inspection and compliance SaaS
 **Problem:** Logistics and transport companies run vehicle inspections on paper, which slows them down and makes compliance hard to prove.
 
-**My role:** Lead Full Stack Developer
-- Led delivery across the web dashboard, backend APIs and the React Native mobile app used by inspectors in the field.
-- Built offline sync so inspections work without a connection and sync when the device is back online.
-- Added analytics for compliance and operational reporting.
-- Deployed with Docker and Nginx on AWS, and shipped the mobile app to the App Store and Google Play.
-
-**Team results, as reported to the client:** 45% increase in client adoption · 20% lower infrastructure costs · 90% alignment with client requirements
-
-`React` `React Native (Expo)` `Python` `Django REST Framework` `PostgreSQL` `Docker` `Nginx` `AWS` `GitHub Actions`
 &nbsp;·&nbsp; [inspectfleet.com](https://inspectfleet.com) · <sub>Source is private</sub>
 
-### HelloNight: hospitality management and POS
-**Problem:** Bars and restaurants need ordering, POS, inventory and staff workflows in one system.
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-**My role:** Full Stack &amp; Mobile Developer <!-- TODO: confirm title -->
-- Built the management web app (POS, inventory) and a mobile waiter app for taking orders at the table.
-- Real-time order updates between the waiter app and the dashboard over Socket.io.
 
-`Next.js` `TypeScript` `React Native (Expo)` `Node.js` `Express` `Socket.io` `PostgreSQL` `TanStack Query`
-&nbsp;·&nbsp; [Live demo](https://hellonightclub.vercel.app/) · <sub>Source is private</sub>
 
 ### Open source and public code
-
-| Project | What it is | Stack |
-|:--|:--|:--|
-| [**react-geo-modals**](https://github.com/kilamaelie/react-geo-modals) | Published npm package with accessible React modals for choosing countries, cities and calling codes. Works with Vite and Next.js. [npm](https://www.npmjs.com/package/react-geo-modals) | TypeScript, React, Tailwind, Radix UI |
-| [**JokeDapp**](https://github.com/kilamaelie/jokes-dapp) | Decentralized joke contest with on-chain entry fees and reward claims, on the Sepolia testnet. [Live](https://jokes-dapp.vercel.app/) | Solidity, Foundry, Next.js, wagmi, viem |
-| [**Next.js on AWS EC2**](https://github.com/kilamaelie/Deploy-a-Next.js-App-on-AWS-EC2-with-Docker-NGINX-and-Automate-with-GitHub-Actions) | Production deployment reference: Docker, Nginx and GitHub Actions to EC2 | Next.js, Docker, Nginx, GitHub Actions |
-| [**Django REST on AWS EC2**](https://github.com/kilamaelie/Deploy-Django-Rest-Api-on-AWS-EC2-using-Docker-NGINX-Gunicorn-And-GithubAction) | The same pipeline for a Django REST API behind Gunicorn and Nginx | Django REST Framework, Docker, Gunicorn |
-| [**React on AWS EC2**](https://github.com/kilamaelie/build-and-deploy-reactApp-to-aws-ec2-via-github-actions) | Secure React deployment with Docker, Nginx and automated CI/CD | React, Docker, Nginx, GitHub Actions |
-
 ---
+
+-  [**react-geo-modals**](https://github.com/kilamaelie/react-geo-modals) Published npm package with accessible React modals for choosing countries, cities and calling codes. Works with Vite and Next.js. [npm](https://www.npmjs.com/package/react-geo-modals)
+
+
 
 ## AI and LLM engineering
 
@@ -151,16 +115,15 @@ I build AI features into real products:
 
 ---
 
-## GitHub activity
+##  📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/kilamaelie?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=kilamaelie&show_icons=true&hide_border=true&theme=github_dark&hide_rank=true&count_private=true" alt="GitHub stats for kilamaelie" />
-  </a>
-  <a href="https://github.com/kilamaelie?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilamaelie&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used languages in kilamaelie's public repositories" />
-  </a>
-</p>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+ ![Kilama Elie GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kilamaelie&theme=tokyonight&theme=icegray&border_radius=8) 
+
+<br>
 
 <p align="center"><sub>Most of my production work is in private client repositories, so these cards show only part of my activity.</sub></p>
 
@@ -170,6 +133,8 @@ I build AI features into real products:
 
 I write practical guides on cloud-native deployment, DevOps automation and system design. Each guide comes with a working public repository.
 
+> You can find my recommended blogs at [kilamaelie.dev/articles/blog](https://kilamaelie.dev/articles).
+
 - [Deploy a Next.js App on AWS EC2 with Docker, NGINX, and GitHub Actions](https://medium.com/@kilamaelie/deploy-a-next-js-app-on-aws-ec2-with-docker-nginx-and-automate-with-github-actions-05a879d1a81b)
 - [Deploy a Django REST API on AWS EC2 using Docker, NGINX, Gunicorn and GitHub Actions](https://medium.com/@kilamaelie/deploy-a-django-rest-api-on-aws-ec2-using-docker-nginx-gunicorn-and-github-action-1d3b41f3bfdc)
 - [Build and Deploy a ReactJS App to AWS EC2 with Docker, NGINX, and GitHub Actions](https://medium.com/@kilamaelie/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-d8c57fb47967)
@@ -178,21 +143,8 @@ I write practical guides on cloud-native deployment, DevOps automation and syste
 
 More on [Medium](https://medium.com/@kilamaelie) and [Dev.to](https://dev.to/kilamaelie). I also lead the AfroCom community and its technical initiatives.
 
----
-
-## Connect
-
-| | |
-|:--|:--|
-| Portfolio | [kilamaelie.dev](https://kilamaelie.dev/) · [kilamaelie.com](https://kilamaelie.com) |
-| LinkedIn | [linkedin.com/in/kilamaelie](https://linkedin.com/in/kilamaelie) |
-| GitHub | [github.com/kilamaelie](https://github.com/kilamaelie) |
-| Writing | [Medium](https://medium.com/@kilamaelie) · [Dev.to](https://dev.to/kilamaelie) |
-| Email | [elijahkilama14@gmail.com](mailto:elijahkilama14@gmail.com) |
-| Resume | [Download PDF](https://drive.google.com/file/d/19lQ7wD7mHI3Tg3LkEXehDdJLn297dntl/view?usp=sharing) |
-
----
-
+</br>
+</br>
 <p align="center">
   I like building software that holds up in production, with teams that value clear ownership and good communication.<br>
   If you're working on something ambitious across web, mobile, cloud or AI, I'd like to hear about it.
