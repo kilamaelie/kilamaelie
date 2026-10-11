@@ -1,111 +1,119 @@
+<!-- Profile README for github.com/kilamaelie -->
+
+<h1 align="center">Elie Kilama</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=Startup+Enthusiast..&hearts;++;Full-Stack+Developer,;Tech+writer/Researcher,;Love+to+learn+new+stuffs."></a>
-<br>
-
+  <strong>Full Stack &amp; Mobile Developer | 7+ Years Exp. | Next.js, React Native, Node.js, Python | DevOps | AI &amp; LLM Integration</strong>
 </p>
 
-![banner](https://res.cloudinary.com/dwz5lx2k7/image/upload/v1702919814/portfolio/Kilama_Banner_Linkedin_banner_rpf550.webp)
+<p align="center">
+  I design, build, deploy and run production software end to end: web apps, cross-platform mobile apps,<br>
+  backend APIs, cloud infrastructure and LLM-powered features. One engineer, from architecture to app store.
+</p>
 
-<div align="center">
- 
-<!--   <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
-  <a href="https://www.linkedin.com/in/kilamaelie/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username kilamaelie" /></a>
-<a href="https://medium.com/@kilamaelie"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://www.patreon.com/kilamaelie"><img src="https://img.shields.io/badge/patreon-0A0A0A?style=for-the-badge&logo=patreon&logoColor=white"/></a><br>
+<p align="center">
+  <a href="https://kilamaelie.dev/">Portfolio</a> ·
+  <a href="https://linkedin.com/in/kilamaelie">LinkedIn</a> ·
+  <a href="https://medium.com/@kilamaelie">Medium</a> ·
+  <a href="https://dev.to/kilamaelie">Dev.to</a> ·
+  <a href="mailto:elijahkilama14@gmail.com">Email</a> ·
+  <a href="https://drive.google.com/file/d/19lQ7wD7mHI3Tg3LkEXehDdJLn297dntl/view?usp=sharing"><strong>Resume (PDF)</strong></a>
+</p>
 
-<a href="https://dev.to/kilamaelie"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username kilamaelie" /></a>
-<a href="https://kilamaelie.dev/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of Kilama Elie" /></a>
-<a href="mailto:elijahkilama14@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Kilama Elie " /></a>
-  <a href="https://twitter.com/kilamaelie"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Kilama Elie" ></a>
- <a href="https://drive.google.com/file/d/19lQ7wD7mHI3Tg3LkEXehDdJLn297dntl/view?usp=sharing" target="_blank">
-   <img src="https://img.shields.io/badge/-RESUME-white?logo=dialogflow&style=for-the-badge">
-</a>
-</div>
-<br>
+<p align="center">
+  <sub> · Works remotely across US and EU time zones · </sub>
+</p>
 
-<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height='20px' width="28px" alt="hi"> I’m a Senior Full-Stack Engineer with 7+ years of experience building, scaling, and owning production SaaS and B2B platforms across web and mobile in remote-first teams.
+> **Open to senior and lead remote roles:** Full Stack & Mobile Developer | 7+ Years Exp. | Next.js, React Native, Node.js, Python | DevOps | AI & LLM Integration
 
-I specialize in end-to-end system ownership—from architecture and implementation to deployment and scaling—working primarily with Next.js, React, Node.js, TypeScript, React Native, Docker, and cloud infrastructure. I’ve led distributed teams, made architectural trade-offs, and delivered systems aligned with real business outcomes.
+**Highlights**
+- **7+ years** shipping production web, mobile and backend systems
+- **Multi-tenant SaaS** across web, dashboards, desktop and mobile at WoteMart
+- **Published npm package** and open-source AWS deployment guides with matching Medium tutorials
 
-Some of my recent work includes:
+---
 
-Wotemart — a multi-tenant SaaS marketplace spanning web, dashboards, desktop, and mobile apps
+## About me
 
-Inspectfleet — a logistics inspection platform that increased client adoption by 45% through iterative remote delivery
+I'm a full stack engineer who owns whole products, not just tickets. Over 7+ years I've shipped multi-tenant SaaS platforms, B2B dashboards, offline-first mobile apps and AI chatbots, and I've run the Docker, AWS and CI/CD pipelines behind them.
 
-I care deeply about clean architecture, maintainable systems, and predictable delivery in remote environments. I work comfortably across US and EU time zones, using clear async communication and strong documentation to keep teams aligned.
+What I'm good at:
 
-Outside of product development, I write about cloud-native development, DevOps automation, and scalable system design on Medium (medium.com/@kilamaelie).
+- **Product delivery end to end.** I can take a feature from schema and API design through web and mobile UI to deployment and monitoring.
+- **Architecture that grows.** Multi-tenant SaaS, microservices, shared authentication, and offline sync between mobile apps and the cloud.
+- **Cross-platform reach.** Next.js on the web and React Native / Expo on iOS and Android, sharing TypeScript, APIs and authentication.
+- **Practical AI.** LLM features wired into real products: chatbots, prompt pipelines and multi-model routing.
 
-I’m currently open to senior or lead remote roles where ownership, autonomy, and impact matter.
+**Currently:** Full Stack Engineer at [Wotemart](https://wotemart.com) · Community Leader &amp; Full Stack Engineer at [AfroCom](https://afrocom.app)
 
- 
-<br>
+---
 
-## Latest books
+## Core expertise
 
-<a href="https://www.patreon.com/kilamaelie"><img src="https://img.shields.io/badge/patreon-0A0A0A?style=for-the-badge&logo=patreon&logoColor=white"/></a><br>
+**Primary stack**
 
-> You can find my recommended books at [patreon](https://www.patreon.com/kilamaelie/shop).
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-161b22?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB)
+![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-161b22?style=flat-square)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-161b22?style=flat-square&logo=anthropic&logoColor=white)
+
+| Area | Technologies |
+|:--|:--|
+| **Frontend** | React, Next.js, Vite, TypeScript, Tailwind CSS, Redux, Zustand, TanStack Query |
+| **Mobile** | React Native, Expo, iOS and Android delivery through the App Store and Google Play |
+| **Desktop** | React, Vite, Typescrit, Electron delivery through Mac Os, Windows, Linux desktop App |
+| **Backend** | Node.js, Express, Python, Django REST Framework, FastAPI, REST APIs, WebSockets |
+| **Data** | PostgreSQL, MongoDB, Redis, MySQL, Prisma, Supabase |
+| **Cloud &amp; DevOps** | Docker, AWS (EC2), GitHub Actions CI/CD, Nginx, Cloudflare |
+| **AI &amp; LLM** | OpenAI API, Claude, OpenRouter, Ollama, LangChain, prompt engineering |
+| **Architecture** | Multi-tenant SaaS, microservices, JWT / OAuth authentication, offline-first sync, API design |
+
+<sub>Also: Web3 (Solidity, Foundry, wagmi, viem), technical writing, developer education.</sub>
+
+---
+
+## Featured work
+
+### WoteMart: multi-tenant SaaS and B2B platform
+**Problem:** Businesses run sales, customers and operations across disconnected tools.
+WoteMart is one business management suite with web apps, CRM/CMS dashboards, desktop software and mobile apps.
+&nbsp;·&nbsp; [wotemart.com](https://wotemart.com) · <sub>Source is private</sub>
+
+### AfroCom and Maat: community platform and AI chatbot
+**Problem:** A growing community needs one place to connect, and its routine questions and workflows need automating.
+&nbsp;·&nbsp; [afrocom.app](https://afrocom.app) · <sub>Source is private</sub>
+<!-- TODO: add a public Maat link or demo here if one exists -->
+
+### InspectFleet: inspection and compliance SaaS
+**Problem:** Logistics and transport companies run vehicle inspections on paper, which slows them down and makes compliance hard to prove.
+
+&nbsp;·&nbsp; [inspectfleet.com](https://inspectfleet.com) · <sub>Source is private</sub>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-- [Master React App Deployment: AWS EC2, Route 53, SSL & GitHub Actions,A comprehensive manual which walks you through the deployment process, leveraging the power of Docker, AWS EC2, Route 53, SSL encryption and GitHub actions to build a robust CI/CD pipeline.](https://www.patreon.com/kilamaelie/shop/master-react-app-deployment-aws-ec2-53-1089307?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=productshare_fan&utm_content=join_link) <span>  ( PDF Format)</span>
 
-<br>
+### Open source and public code
+---
 
-<br>
+-  [**react-geo-modals**](https://github.com/kilamaelie/react-geo-modals) Published npm package with accessible React modals for choosing countries, cities and calling codes. Works with Vite and Next.js. [npm](https://www.npmjs.com/package/react-geo-modals)
 
-## Latest blog posts
 
-<a href="https://dev.to/kilamaelie"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-<a href="https://medium.com/@kilamaelie"><img src="https://img.shields.io/badge/Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white"/></a><br>
 
-> You can find my recommended blogs at [kilamaelie.dev/articles/blog](https://kilamaelie.dev/articles).
+## AI and LLM engineering
 
-- [Beginner’s Guide to Environment Variables with Docker](https://medium.com/@kilamaelie/beginners-guide-to-environment-variables-with-docker-f716f65af5ec)
+I build AI features into real products:
 
-- [Deploy a Next.js App on AWS EC2 with Docker, NGINX, and Automate with GitHub Actions.](https://medium.com/@kilamaelie/deploy-a-next-js-app-on-aws-ec2-with-docker-nginx-and-automate-with-github-actions-05a879d1a81b)
+- **Chatbots in production:** Maat automates community interactions and workflows for AfroCom.
+- **Multi-model integration:** one integration layer over OpenAI and OpenRouter, so the product can switch models without rewriting features.
+- **Prompt pipelines:** custom prompt pipelines that drive chatbot answers and automated workflows.
+- **Tooling:** OpenAI API, Claude, OpenRouter, Ollama and LangChain, applied to product features and API orchestration.
 
-- [Deploy a Django Rest Api on AWS EC2 using Docker, NGINX, Gunicorn and GitHub Action](https://medium.com/@kilamaelie/deploy-a-django-rest-api-on-aws-ec2-using-docker-nginx-gunicorn-and-github-action-1d3b41f3bfdc)
-
-- [Build and Deploy a ReactJS App to AWS EC2 with Docker, NGINX, and Automate with GitHub Actions](https://medium.com/@kilamaelie/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-d8c57fb47967)
-
-<br>
-  
-## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 
-
-| Category        | Skills        |
-|-----------------|---------------|
-| Frameworks| <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> |
-| Languages       | ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) |
-| Front-End Development | ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)|
-| Back-End Development | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) |
-|Databases|  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
-| Web Hosting | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
-| Mobile Hosting | ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white) ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)|
-| Softwares and Tools |  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| Extras |  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)  ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)|
-
-<br>
-
-## Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
-
-> Find all of my projects at [kilamaelie.dev/projects](https://kilamaelie.dev/projects) with timeline, tech stack and necessary links.
-
-&nbsp;
-
-| Projects | Deployed Link | Repository | Tech Stack & Tools |
-|:---------|:-------------:|:----------:|:-------------------|
-| WoteMart | [view](https://wotemart.com) |  | `Microservice` `GitHub Actions`  `Postman` `React` `React-native(Expo)` `NextJS` `Django DRF` `Node` `Express` `API Getway` |
-| AfroCom | [view](https://afrocom.app/) |  | `Next.js` `React` `TypeScript` `GitHub Actions` `Tailwind css` `Node`  |
-| Mzuri Sannaa | - | - |`Next.js` `React` `TypeScript` `GitHub Actions` `Tailwind css` `Node` `Express` `MongoDB` `RestFull API` `Redux`| 
-| zebraItSolution | [view](https://www.zebraitsolution.com/) | - |`Next.js` `React` `TypeScript` `GitHub Actions` `MUI` `Node`  | 
-| HelloNight |[view](https://hellonightclub.vercel.app/)| - | `Next.js` `TypeScript` `React` `React-native (Expo)` `Mui-Material` `NodeJS` `Express` `Socket.io` `Postgres` `RestFull API` `Tanstask quey` `State management` | 
-|InspectFleet | [view](https://inspectfleet.com/) | - | `Reactjs` `React-native` `Django DRF` `Mui-Material` `Docker` `Expo` `AWS` `Nginx` `Github Action` `AppStore` `PlayStore` `Postman` `Postgres` `RestFull API` `Tanstask quey` `Context API` `GitHub Actions` |
-| Joke DApp | [view](https://jokes-dapp.vercel.app/) | [view](https://github.com/kilamaelie/jokes-dapp) | `Next.js` `DApp` `Mui-Material` ` Foundry` `Solidity` `Smart-Contract` `Wagmi` `Viem`|
-
-<br>
+---
 
 ##  📊 GitHub Stats
 
@@ -113,28 +121,32 @@ I’m currently open to senior or lead remote roles where ownership, autonomy, a
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-| ![Kilama Elie GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kilamaelie&theme=tokyonight&theme=icegray&border_radius=8) |
-| -- | -- |
-
-<hr>
+ ![Kilama Elie GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kilamaelie&theme=tokyonight&theme=icegray&border_radius=8) 
 
 <br>
 
-##  🏆 GitHub Trophies
-
-<br>
-
-![](https://github-profile-trophy.vercel.app/?username=kilamaelie&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<br>
-
-###  ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center"><sub>Most of my production work is in private client repositories, so these cards show only part of my activity.</sub></p>
 
 ---
 
+## Writing and community
 
+I write practical guides on cloud-native deployment, DevOps automation and system design. Each guide comes with a working public repository.
 
+> You can find my recommended blogs at [kilamaelie.dev/articles/blog](https://kilamaelie.dev/articles).
 
+- [Deploy a Next.js App on AWS EC2 with Docker, NGINX, and GitHub Actions](https://medium.com/@kilamaelie/deploy-a-next-js-app-on-aws-ec2-with-docker-nginx-and-automate-with-github-actions-05a879d1a81b)
+- [Deploy a Django REST API on AWS EC2 using Docker, NGINX, Gunicorn and GitHub Actions](https://medium.com/@kilamaelie/deploy-a-django-rest-api-on-aws-ec2-using-docker-nginx-gunicorn-and-github-action-1d3b41f3bfdc)
+- [Build and Deploy a ReactJS App to AWS EC2 with Docker, NGINX, and GitHub Actions](https://medium.com/@kilamaelie/build-and-deploy-a-reactjs-app-to-aws-ec2-with-docker-nginx-and-automate-with-github-actions-d8c57fb47967)
+- [Beginner's Guide to Environment Variables with Docker](https://medium.com/@kilamaelie/beginners-guide-to-environment-variables-with-docker-f716f65af5ec)
+- Book: [*Master React App Deployment: AWS EC2, Route 53, SSL &amp; GitHub Actions*](https://www.patreon.com/kilamaelie/shop) (PDF)
+
+More on [Medium](https://medium.com/@kilamaelie) and [Dev.to](https://dev.to/kilamaelie). I also lead the AfroCom community and its technical initiatives.
+
+</br>
+</br>
+<p align="center">
+  I like building software that holds up in production, with teams that value clear ownership and good communication.<br>
+  If you're working on something ambitious across web, mobile, cloud or AI, I'd like to hear about it.
+</p>
 
